@@ -1,0 +1,11 @@
+br\com\sosdocs\config\AppConfig.class
+br\com\sosdocs\core\Propriedades.class
+br\com\sosdocs\suites\SuiteGeral.class
+br\com\sosdocs\core\Propriedades$Browsers.class
+br\com\sosdocs\pages\WebJump.class
+br\com\sosdocs\core\DriverFactory$1.class
+br\com\sosdocs\core\BasePage.class
+br\com\sosdocs\core\DriverFactory.class
+br\com\sosdocs\pages\LoginPage.class
+br\com\sosdocs\core\BaseTest.class
+br\com\sosdocs\test\AdicionarArquivos.class
